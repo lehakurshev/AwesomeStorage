@@ -18,6 +18,7 @@
  - `git clone https://github.com/lehakurshev/AwesomeStorage.git`
  - `cd AwesomeStorage`
  - `docker-compose up --build`
+ ![alt text](https://github.com/lehakurshev/AwesomeStorage/blob/main/png/1.png)
 
 ## можно и без docker
  - достаточно создать базу данных postgres с названием `awesomestorage` и запустить .net приложение в удобной для вас форме
