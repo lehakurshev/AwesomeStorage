@@ -23,7 +23,7 @@
  - достаточно создать базу данных postgres с названием `awesomestorage` и запустить .net приложение в удобной для вас форме
 
 ## Резюме
- - комерческого опыта нет но мало ли)
+ - коммерческого опыта нет но мало ли)
  - https://docs.google.com/document/d/1zN3wrZQejVrxrYIYFrmMQY14hlwht86dAWhCRcQG_Vw/edit?usp=sharing
 
 ## TODO
