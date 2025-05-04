@@ -13,12 +13,13 @@
  - получить список элементов в проядке убывания "годности" (годность считается в CompareTo класса Element)
  - получить список элементов в проядке убывания близости к входной строке (основан на полнотекстовом поиске)
 
+ ![alt text](https://github.com/lehakurshev/AwesomeStorage/blob/main/png/1.png)
+
 ## простой способ запуска приложения (docker)
 
  - `git clone https://github.com/lehakurshev/AwesomeStorage.git`
  - `cd AwesomeStorage`
  - `docker-compose up --build`
- ![alt text](https://github.com/lehakurshev/AwesomeStorage/blob/main/png/1.png)
 
 ## можно и без docker
  - достаточно создать базу данных postgres с названием `awesomestorage` и запустить .net приложение в удобной для вас форме
